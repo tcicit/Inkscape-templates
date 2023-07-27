@@ -2,7 +2,7 @@
 
 Die Vorlagen können ganz einfach in das Vorlagen (template) Verzeichnis kopiert werden und sehen dann unter persönlichen Vorlagen zur Verfügung.
 
-Unter Linux: /home//user/.config/inkscape/templates
+Unter Linux: /[[home]]//user/.config/inkscape/templates
 
 ## Um die Inkscape-Standardvorlage zu ändern.
 
